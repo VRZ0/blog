@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://i0.wp.com/lucrandocomigo.com.br/wp-content/uploads/2021/05/Como-Ganhar-Dinheiro-Com-Blog-Guia-Definitivo-2-1.png?fit=650%2C350&ssl=1",
+      "category": "Tecnologia",
+      "title": "O guia definitivo sobre o blog",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Fulano de tal",
+      "date": "Aug 2, 2021"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VRbw6fhwNJ2TIJnssl58o6m0pBAvx5dbIw&usqp=CAU",
+      "category": "Fotografia",
+      "title": "Quais as melhores câmeras em 2021?",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Ciclano de tal",
+      "date": "Aug 4, 2021"
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/736x/be/e4/41/bee441abc916cf3f53b9fb8f9c5fd29c.jpg",
+      "category": "Cinema",
+      "title": "Os 10 filmes com maior bilheteria.",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Beltrano de tal",
+      "date": "Aug 6, 2021"
+    }
+  ]
+}
